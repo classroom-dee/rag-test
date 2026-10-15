@@ -2,6 +2,7 @@ langchain-ollama
 langchain-postgres
 langchain-text-splitters
 langgraph
+
 psycopg[binary]
 fastapi[standard]
 requests

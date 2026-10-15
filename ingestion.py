@@ -1,3 +1,6 @@
+"""
+Currently this script is for ad-hoc executions.
+"""
 import requests
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_ollama import OllamaEmbeddings
