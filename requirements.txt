@@ -6,3 +6,4 @@ langgraph
 psycopg[binary]
 fastapi[standard]
 requests
+uvicorn
